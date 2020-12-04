@@ -1,1 +1,3 @@
 # Facial-Anomaly-Detection
+## Executive Summary
+Craniofacial anomalies (CFA) are a diverse group of deformities in the growth of the head and facial bones occurs in approximately 1 per 500-700 births worldwide.  Physical deformity has an effect in child’s life while interacting, socializing and making friends. There is a need for assessing the normality level of CFA that could help doctor/care-givers for necessary interventions/surgery. The existing solutions for CFA detection are time consuming and it requires patients to visit hospital and go through complex lab exams. This research proposes to develop a mobile application for real-time craniofacial anomaly assessment through implementing deep learning architecture on mobile device. 
