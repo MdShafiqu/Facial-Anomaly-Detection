@@ -1,6 +1,8 @@
 # Facial Anomaly Detection
 ## Executive Summary
 Craniofacial anomalies (CFA) are a diverse group of deformities in the growth of the head and facial bones occurs in approximately 1 per 500-700 births worldwide.  Physical deformity has an effect in child’s life while interacting, socializing and making friends. There is a need for assessing the normality level of CFA that could help doctor/care-givers for necessary interventions/surgery. The existing solutions for CFA detection are time consuming and it requires patients to visit hospital and go through complex lab exams. This research proposes to develop a mobile application for real-time craniofacial anomaly assessment through implementing deep learning architecture on mobile device. 
+![Facial_ano](https://user-images.githubusercontent.com/22468194/170105997-af0a8766-0013-4c5d-b30d-b9a45710bb4a.JPG)
+
 ## Brief Background
 The costs incurred from CFA in terms of morbidity, health care, emotional disturbance, and social and employment exclusion, are considerable for affected individuals, their families and society. Although reliable data on CFA prevalence in Middle East is not available, some researchers estimated prevalence for Saudi Arabia, UAE, Oman, and Jordan are 1.9, 0.3, 1.5, and 2.4 per 1000 live births respectively. Accurate assessment of CFA at an early stage with the aid of deep learning architecture could provide healthcare professionals a second opinion in decision making for necessary treatments and surgery. 
 ## Idea Description                                                                                                                  
@@ -11,4 +13,6 @@ Collecting a well representative CFA dataset which comprise of all major CFA cat
 Developing deep learning architecture to assess CFA image datasets. Performance of different established transfer learning models such as ResNet, VGG, and MobileNets in the context of CFA image recognition will be investigated and best performing models will be selected based on their accuracy.    
 ### Objective-3: 
 Implement deep learning in mobile device for real-time CFA image assessment. The developed deep learning model from objective-2 will be converted to a smaller but efficient version that can be implemented in mobile device. The outcome of this objective will be a mobile application that will allow users/doctors to capture images from CFA subjects and provide a normality score such as 1 (normal) - 7 (severe anomaly) about the camera fed images in real-time.   
+## Results
+![image](https://user-images.githubusercontent.com/22468194/170106325-0209cef0-f9c9-4d0f-932a-580cbc4f5811.png)
 
